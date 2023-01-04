@@ -1,0 +1,21 @@
+C:\Users\dacam988\Desktop\SY22-23\VB\First Thing\First Thing\obj\Debug\net6.0-windows\First Thing.vbproj.AssemblyReference.cache
+C:\Users\dacam988\Desktop\SY22-23\VB\First Thing\First Thing\obj\Debug\net6.0-windows\MainWindow.g.vb
+C:\Users\dacam988\Desktop\SY22-23\VB\First Thing\First Thing\obj\Debug\net6.0-windows\Application.g.vb
+C:\Users\dacam988\Desktop\SY22-23\VB\First Thing\First Thing\obj\Debug\net6.0-windows\First Thing_MarkupCompile.cache
+C:\Users\dacam988\Desktop\SY22-23\VB\First Thing\First Thing\obj\Debug\net6.0-windows\First Thing_MarkupCompile.lref
+C:\Users\dacam988\Desktop\SY22-23\VB\First Thing\First Thing\bin\Debug\net6.0-windows\First Thing.exe
+C:\Users\dacam988\Desktop\SY22-23\VB\First Thing\First Thing\bin\Debug\net6.0-windows\First Thing.deps.json
+C:\Users\dacam988\Desktop\SY22-23\VB\First Thing\First Thing\bin\Debug\net6.0-windows\First Thing.runtimeconfig.json
+C:\Users\dacam988\Desktop\SY22-23\VB\First Thing\First Thing\bin\Debug\net6.0-windows\First Thing.dll
+C:\Users\dacam988\Desktop\SY22-23\VB\First Thing\First Thing\bin\Debug\net6.0-windows\First Thing.pdb
+C:\Users\dacam988\Desktop\SY22-23\VB\First Thing\First Thing\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\dacam988\Desktop\SY22-23\VB\First Thing\First Thing\obj\Debug\net6.0-windows\First Thing.g.resources
+C:\Users\dacam988\Desktop\SY22-23\VB\First Thing\First Thing\obj\Debug\net6.0-windows\First Thing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dacam988\Desktop\SY22-23\VB\First Thing\First Thing\obj\Debug\net6.0-windows\First Thing.AssemblyInfoInputs.cache
+C:\Users\dacam988\Desktop\SY22-23\VB\First Thing\First Thing\obj\Debug\net6.0-windows\First Thing.AssemblyInfo.vb
+C:\Users\dacam988\Desktop\SY22-23\VB\First Thing\First Thing\obj\Debug\net6.0-windows\First Thing.vbproj.CoreCompileInputs.cache
+C:\Users\dacam988\Desktop\SY22-23\VB\First Thing\First Thing\obj\Debug\net6.0-windows\First Thing.dll
+C:\Users\dacam988\Desktop\SY22-23\VB\First Thing\First Thing\obj\Debug\net6.0-windows\refint\First Thing.dll
+C:\Users\dacam988\Desktop\SY22-23\VB\First Thing\First Thing\obj\Debug\net6.0-windows\First Thing.pdb
+C:\Users\dacam988\Desktop\SY22-23\VB\First Thing\First Thing\obj\Debug\net6.0-windows\First Thing.genruntimeconfig.cache
+C:\Users\dacam988\Desktop\SY22-23\VB\First Thing\First Thing\obj\Debug\net6.0-windows\ref\First Thing.dll
